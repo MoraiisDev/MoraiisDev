@@ -5,15 +5,15 @@
 </div>
 
 ### Sobre Mim:
-*Meu nome é João, tenho 17 anos, estou estudando para em um futuro breve ir em busca da minha primeira vaga como desenvolvedor Front-End*
-* Atualmente estudando HTML, CSS, Javascript
-* Contate-me: joao25072005@gmail.com  
-* Estudante de desenvolvimento Front-End na Alura
+*Meu nome é João, tenho 17 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End*
+* Atualmente estudando HTML, CSS, Javascript;
+* Estudante de desenvolvimento Front-End na <a href="https://www.linkedin.com/school/aluracursos/"<i>Alura<i></a>;
+* Contate-me: joao25072005@gmail.com.
 
 ### Metas para 2023:
-* Conquistar minha primeira vaga como desenvoledor
-* Ganhar experiência na área
-* Concluir o ensino médio
+* Conquistar minha primeira vaga como desenvoledor;
+* Ganhar experiência na área;
+* Concluir o ensino médio.
 
  <h3 align="center">Tecnologias nas quais pretendo trabalhar
 <div align="center" valign="top"><br>
