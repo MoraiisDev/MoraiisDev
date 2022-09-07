@@ -11,7 +11,7 @@
 * Contate-me: joao25072005@gmail.com.
 
 ### Metas para 2023:
-* Conquistar minha primeira vaga como desenvoledor;
+* Conquistar minha primeira vaga como desenvolvedor;
 * Ganhar experiência na área;
 * Concluir o ensino médio.
 
