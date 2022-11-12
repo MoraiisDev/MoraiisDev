@@ -5,7 +5,7 @@
 </div>
 
 ### Sobre Mim:
-*Meu nome é João, tenho 17 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End*
+*Meu nome é João Vitor, tenho 17 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End*
 * Atualmente estudando HTML, CSS, Javascript;
 * Estudante de desenvolvimento Front-End na Alura;
 * Contate-me: joao25072005@gmail.com.
