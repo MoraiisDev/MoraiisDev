@@ -7,13 +7,7 @@
 ### Sobre Mim:
 *Meu nome é João Vitor, tenho 18 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End.*
 * Atualmente estudando HTML, CSS, Javascript;
-* Estudante de desenvolvimento Front-End na Alura;
 * Contate-me: joao25072005@gmail.com.
-
-### Metas para 2023:
-* Conquistar minha primeira vaga como desenvolvedor;
-* Ganhar experiência na área;
-* Concluir o ensino médio.
 
  <h3 align="center">Tecnologias nas quais pretendo trabalhar
 <div align="center" valign="top"><br>
