@@ -1,12 +1,13 @@
 <div>
   <h1 align="center">Olá, Tudo certo? Eu sou o <a href="https://www.linkedin.com/in/joão-vitor-morais-a5ab52235/"><i>João</i></a>🙂</h1>
-  <h3 align="center">Desenvolvedor Web </h3>
+  <h3 align="center">Desenvolvedor Web Front-End </h3>
  <br>
 </div>
 
 ### Sobre Mim:
 *Meu nome é João Vitor, tenho 18 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End.*
 * Atualmente estudando HTML, CSS, Javascript;
+* Cursando Desenvolvimento de Software Multiplataforma na Fatec
 * Contate-me: joao25072005@gmail.com.
 
  <h3 align="center">Tecnologias nas quais pretendo trabalhar
