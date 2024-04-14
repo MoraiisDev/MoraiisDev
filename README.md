@@ -6,9 +6,9 @@
 
 ### Sobre Mim:
 *Meu nome é João Vitor, tenho 18 anos, estou estudando para, em um futuro breve, ir em busca da minha primeira vaga como desenvolvedor Front-End.*
-* Atualmente estudando HTML, CSS, Javascript;
+* Atualmente estudando HTML, CSS, Javascript
 * Cursando Desenvolvimento de Software Multiplataforma na Fatec
-* Contate-me: joao25072005@gmail.com.
+* Contate-me: jvmd.developer@gmail.com
 
  <h3 align="center">Tecnologias nas quais pretendo trabalhar
 <div align="center" valign="top"><br>
