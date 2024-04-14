@@ -10,7 +10,7 @@
 * Cursando Desenvolvimento de Software Multiplataforma na Fatec
 * Contate-me: jvmd.developer@gmail.com
 
- <h3 align="center">Tecnologias nas quais pretendo trabalhar
+ <h3 align="center">Tenho focado meus estudos em
 <div align="center" valign="top"><br>
   
   <img align="center" alt="HTML" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
